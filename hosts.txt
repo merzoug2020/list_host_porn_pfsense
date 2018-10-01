@@ -1,4 +1,4 @@
-# This hosts file is a merged collection of hosts from reputable sources,
+﻿his hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
 # Date: September 23 2018
@@ -97,6 +97,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.zkcdn.net
 0.0.0.0 ass4all.com
 0.0.0.0 www.xneek.net
+0.0.0.0 www.assoass.com
 0.0.0.0 sixstitch.win
 0.0.0.0 specialsections.siteseer.ca
 0.0.0.0 stealthedeal.com
